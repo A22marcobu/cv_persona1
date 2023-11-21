@@ -24,5 +24,7 @@ Excel
 - [Proyecto_BASE_DE_DATOS](enlace)
 - ...
 
-Muestra de trabajo: [Ver código](muestra.md)
+## Muestra de trabjo
+
+Codigo: [Ver código](muestra.md)
 
